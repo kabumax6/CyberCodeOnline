@@ -4725,7 +4725,11 @@
  	 	 	],
  	 	 	"trans": "${amount}個の${itemName}を受け取りました",
  	 	 	"eng": "You received ${amount} ${itemName}"
- 	 	}
+ 	 	},
+   "nothing":{
+    "trans":"使えそうなものは見つからなかった",
+    "eng":"You didn't find anything useful.."
+    
  	},
  	"dungeon": {
  	 	"enemyInRoomDoorError": {
